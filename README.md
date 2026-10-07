@@ -1,5 +1,5 @@
 # RgdevPaul
-# Hi, I'm Rgdev Nath Paul 👋
+# Hi, I'm Rgdev Nath Paul 
 **Robotics Software Engineer | M.Sc. RWTH Aachen**
 
 I specialize in bridging high-level reasoning models with real-time industrial hardware. My work focuses on **C++**, **ROS 2**, and **Whole-Body Control** for humanoids and complex manipulators. 
